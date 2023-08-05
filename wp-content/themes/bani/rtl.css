@@ -1,0 +1,76 @@
+/*
+Theme Name: Bani
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+    float: right;
+}
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next {
+    float: left;
+    text-align: left;
+}
+.text-right {
+    text-align: left !important;
+}
+.text-left {
+    text-align: right !important;
+}
+.float-right {
+    float: left !important;
+}
+.float-left {
+    float: right !important;
+}
+.main-navigation ul {
+    padding-right: 0;
+}
+#topbar-menu .menu-item:first-child {
+    padding-left: 1rem;
+    padding-right: 0;
+}
+.ml-2 {
+    margin-right: 0.5rem !important;
+    margin-left: 0 !important;
+}
+.mr-3 {
+    margin-left: 1rem !important;
+}
+.mr-2 {
+    margin-left: 0.5rem !important;
+    margin-right: 0 !important;
+}
+.bani-cover-wrapper {
+    margin-right: -50vw;
+}
+.st-featured-area .slide-content h6>span {
+    display: block;
+    padding-bottom: .5rem;
+}
+.widget.bani-widget ul {
+    margin-right: 0rem;
+    padding-right: 0rem;
+}
+.widget.card > .card-block > div > ul li a::before, .widget.card > .card-block > ul li a::before, .widget.card > .card-block > ul li::before, .widget_calendar caption::before {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.widget_recent_comments > .card-block > ul > li > span::before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.st-footer-area .scroll-to-top {
+    left: 15px;
+    right: auto;
+}

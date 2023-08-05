@@ -1,0 +1,22 @@
+== Changelog ==
+
+= 1.0.5 - Oct 4 2017 =
+* Otimize style.css
+* Add description
+* Add customizer options
+* Add rtl support
+* Add translation file
+
+= 1.0.4 - Sept 19 2017 =
+* Add translatable strings for defaut theme mods
+
+= 1.0.3 - Sept 17 2017 =
+* Remove 'Instagram' from sidebar name
+* Optimize style.css
+* Update Bootstrap version
+
+= 1.0.2 - Aug 18 2017 =
+* Licence Update, Add missing pages
+
+= 1.0.1 - Jul 15 2017 =
+* Initial release

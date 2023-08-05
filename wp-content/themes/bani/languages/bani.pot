@@ -1,0 +1,1158 @@
+# Copyright (C) 2017 SaltTechno
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bani 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bani\n"
+"POT-Creation-Date: 2017-10-08 17:01:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:44
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+
+#: 404.php:62
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34 comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:84
+msgid "Enter your comment..."
+msgstr ""
+
+#: comments.php:88
+msgid "Name"
+msgstr ""
+
+#: comments.php:91
+msgid "Email"
+msgstr ""
+
+#: comments.php:94
+msgid "Website"
+msgstr ""
+
+#: comments.php:101
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:102
+msgid "Cancel Comment"
+msgstr ""
+
+#: comments.php:103
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:164 functions/bani-customizer-footer.php:51
+msgid "(c) Copyright 2017 - All Rights Reserved"
+msgstr ""
+
+#: footer.php:180 functions/bani-customizer-footer.php:76
+#: functions/bani-customizer-footer.php:131
+msgid "<a href=\"https://themes.salttechno.com/\">WordPress Blog Themes</a> by SALT TECHNO"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: framework/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:386
+#: framework/class-tgm-plugin-activation.php:827
+#: framework/class-tgm-plugin-activation.php:2533
+#: framework/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:387
+#: framework/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:388
+#: framework/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: framework/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:934
+#: framework/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1121
+#: framework/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: framework/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: framework/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: framework/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: framework/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: framework/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: framework/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: framework/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: framework/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: framework/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: framework/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: framework/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3509
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3509
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: framework/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: framework/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:7
+msgid "Cover Section Settings"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:9
+#: functions/bani-customizer-featured.php:9
+#: functions/bani-customizer-home.php:31
+msgid "Customize your blog's home page layout here. You must have selected \"Your Latest Posts\" at \"Static Front Page\" settings."
+msgstr ""
+
+#: functions/bani-customizer-cover.php:28
+msgid "Hide Cover Section"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:41 index.php:10
+msgid "Welcome to my blog!"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:50
+msgid "Cover Sub-title (First Line)"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:66 index.php:11
+msgid "I am a"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:75
+msgid "Cover Title (Static Part)"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:92
+msgid "Father...,Son...,Writer...,Designer...,Developer...,Blogger!"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:101
+msgid "Cover Title (Typer Part)"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:118 index.php:25
+msgid "This is a perfect place to introduce yourself and this blog. You can easily customize this text from WordPress admin panel. If you want, you can disable this section. You can also customize colors used for this template easily."
+msgstr ""
+
+#: functions/bani-customizer-cover.php:127
+msgid "Cover Intro Paragraph"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:155
+msgid "Cover Background Color"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:177
+msgid "Cover Background Image"
+msgstr ""
+
+#: functions/bani-customizer-cover.php:200
+msgid "Cover Text Color"
+msgstr ""
+
+#: functions/bani-customizer-featured.php:7
+msgid "Featured Posts Settings"
+msgstr ""
+
+#: functions/bani-customizer-featured.php:29
+msgid "Hide Featured Posts"
+msgstr ""
+
+#: functions/bani-customizer-featured.php:51
+msgid "Select Featured Category"
+msgstr ""
+
+#: functions/bani-customizer-featured.php:75
+msgid "Number of Featured Posts"
+msgstr ""
+
+#: functions/bani-customizer-featured.php:99
+msgid "Enter featured post IDs"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:16
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:38
+msgid "Hide Social Icons in Footer"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:60
+msgid "Footer Text Left"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:86
+#: functions/bani-customizer-footer.php:140
+msgid "Footer Text Right"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:116
+msgid "Hide Goto Top Button"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:169
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:191
+msgid "Footer Background Image"
+msgstr ""
+
+#: functions/bani-customizer-footer.php:214
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions/bani-customizer-home.php:19
+msgid "Blog Homepage Settings"
+msgstr ""
+
+#: functions/bani-customizer-home.php:20
+msgid "Settings for your blog's home page"
+msgstr ""
+
+#: functions/bani-customizer-home.php:29
+msgid "Layout Settings"
+msgstr ""
+
+#: functions/bani-customizer-home.php:51
+msgid "Homepage Layout"
+msgstr ""
+
+#: functions/bani-customizer-home.php:56
+msgid "Masonry Layout"
+msgstr ""
+
+#: functions/bani-customizer-home.php:57
+msgid "Full Post Layout"
+msgstr ""
+
+#: functions/bani-customizer-home.php:58
+msgid "Grid Post Layout"
+msgstr ""
+
+#: functions/bani-customizer-home.php:80
+msgid "Display Default Thumbnail Image"
+msgstr ""
+
+#: functions/bani-customizer-home.php:104
+msgid "Change Default Post Thumbnail"
+msgstr ""
+
+#: functions/bani-customizer-home.php:129
+msgid "Display Full Post Content"
+msgstr ""
+
+#: functions/bani-customizer-home.php:155
+msgid "Disable Hover Effect"
+msgstr ""
+
+#: functions/bani-customizer-home.php:177
+msgid "Remove Sidebar"
+msgstr ""
+
+#: functions/bani-customizer-home.php:200
+#: functions/bani-customizer-single-post.php:63
+msgid "Sidebar on Left"
+msgstr ""
+
+#: functions/bani-customizer-home.php:225
+msgid "Hide Loader"
+msgstr ""
+
+#: functions/bani-customizer-logo-header.php:16
+msgid "Logo & Header Settings"
+msgstr ""
+
+#: functions/bani-customizer-logo-header.php:38
+msgid "Upload Logo"
+msgstr ""
+
+#: functions/bani-customizer-logo-header.php:62
+msgid "Logo Height (in px)"
+msgstr ""
+
+#: functions/bani-customizer-logo-header.php:86
+msgid "Display Tagline Under Logo"
+msgstr ""
+
+#: functions/bani-customizer-logo-header.php:110
+msgid "Hide Top Navigation Bar"
+msgstr ""
+
+#: functions/bani-customizer-settings.php:69
+msgid "Select Category"
+msgstr ""
+
+#: functions/bani-customizer-single-post.php:16
+msgid "Single Blog Page Settings"
+msgstr ""
+
+#: functions/bani-customizer-single-post.php:40
+msgid "Full Width Post"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:16
+msgid "Social Media Settings"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:139
+msgid "Facebook"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:152
+msgid "Twitter"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:165
+msgid "Instagram"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:178
+msgid "Pinterest"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:191
+msgid "Bloglovin"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:204
+msgid "Google Plus"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:217
+msgid "Tumblr"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:230
+msgid "Youtube"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:243
+msgid "Dribbble"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:256
+msgid "Soundcloud"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:269
+msgid "Vimeo"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:282
+msgid "Linkedin"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:295
+msgid "Snapchat"
+msgstr ""
+
+#: functions/bani-customizer-social-media.php:308
+msgid "RSS Link"
+msgstr ""
+
+#: functions.php:33
+msgid "Topbar"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary"
+msgstr ""
+
+#: functions.php:85
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:87 functions.php:109 functions.php:119 functions.php:129
+#: functions.php:142
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:95
+msgid "Social Footer"
+msgstr ""
+
+#: functions.php:101
+msgid "Add the \"Instagram\" widget here. You need to install \"WP Instagram Widget\" plugin first. TIP: For best result, set number of photos to 10."
+msgstr ""
+
+#: functions.php:107
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: functions.php:117
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: functions.php:127
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: functions.php:140
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: functions.php:150
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:152
+msgid "Add widgets here to make Page sidebar visible."
+msgstr ""
+
+#: header.php:74
+msgid "Skip to content"
+msgstr ""
+
+#: inc/custom-comments.php:25
+msgid "&#8226; Post Author &#8226;"
+msgstr ""
+
+#: inc/custom-comments.php:28
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/custom-comments.php:30
+msgid "Comment is awaiting approval"
+msgstr ""
+
+#: inc/custom-comments.php:40
+msgid "Reply"
+msgstr ""
+
+#: inc/custom-comments.php:41
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-navigation.php:12
+msgid "<i class=\"fa fa-angle-left\"></i> Newer Posts"
+msgstr ""
+
+#: inc/custom-navigation.php:13
+msgid "Older Posts <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: inc/extras.php:57
+msgid "Theme Help"
+msgstr ""
+
+#: inc/extras.php:83
+msgid "About Bani"
+msgstr ""
+
+#: inc/featured-posts.php:45
+msgid "Featured Post"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:52
+msgid " "
+msgstr ""
+
+#. translators: 1: list of categories.
+#. translators: 1: list of tags.
+#. translators: 1: list of categories.
+
+#: inc/template-tags.php:55 inc/template-tags.php:62 single.php:25
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: inc/template-tags.php:80 template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/views/about.php:2
+msgid "Bani - A Perfect Blog Theme"
+msgstr ""
+
+#: inc/views/about.php:12
+msgid "Thank you for using our Bani Pro theme!"
+msgstr ""
+
+#: inc/views/about.php:19 inc/views/about.php:78
+msgid "Get Started"
+msgstr ""
+
+#: inc/views/about.php:20
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/views/about.php:26 inc/views/about.php:86
+msgid "Next Steps"
+msgstr ""
+
+#: inc/views/about.php:29 inc/views/about.php:89
+msgid "Get optimization tips"
+msgstr ""
+
+#: inc/views/about.php:32 inc/views/about.php:92
+msgid "Customize your site"
+msgstr ""
+
+#: inc/views/about.php:35 inc/views/about.php:95
+msgid "Check pro version demo"
+msgstr ""
+
+#: inc/views/about.php:42 inc/views/about.php:102
+msgid "More Actions"
+msgstr ""
+
+#: inc/views/about.php:45 inc/views/about.php:105
+msgid "How to set featured posts?"
+msgstr ""
+
+#: inc/views/about.php:48 inc/views/about.php:108
+msgid "How to create a contact form?"
+msgstr ""
+
+#: inc/views/about.php:51 inc/views/about.php:111
+msgid "More themes by SaltTechno"
+msgstr ""
+
+#: inc/views/about.php:71
+msgid "Thank you for using our theme!"
+msgstr ""
+
+#: inc/views/about.php:79
+msgid "Read Docs"
+msgstr ""
+
+#: inc/views/about.php:80
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/views/about.php:127
+msgid "Your blog is good. Let's make it better!"
+msgstr ""
+
+#: inc/views/about.php:139
+msgid "Features:"
+msgstr ""
+
+#: inc/views/about.php:142
+msgid "5 Post Formats"
+msgstr ""
+
+#: inc/views/about.php:145
+msgid "Mulitple Navbars"
+msgstr ""
+
+#: inc/views/about.php:148
+msgid "Edit Right Footer Text"
+msgstr ""
+
+#: inc/views/about.php:151
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/views/about.php:154
+msgid "Premium Support"
+msgstr ""
+
+#: inc/views/about.php:161
+msgid "Custom Widgets:"
+msgstr ""
+
+#: inc/views/about.php:164
+msgid "About Me/Us"
+msgstr ""
+
+#: inc/views/about.php:167
+msgid "Latest Posts with Thumbnails"
+msgstr ""
+
+#: inc/views/about.php:170
+msgid "Promotional Link Boxes"
+msgstr ""
+
+#: inc/views/about.php:173
+msgid "Learn More"
+msgstr ""
+
+#: inc/widgets/about-widget.php:22
+msgid "About Widget to display about author or company."
+msgstr ""
+
+#: inc/widgets/about-widget.php:28
+msgid "BaniPro - About Widget"
+msgstr ""
+
+#: inc/widgets/about-widget.php:100
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/about-widget.php:106 inc/widgets/link-box-widget.php:103
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about-widget.php:108 inc/widgets/link-box-widget.php:105
+msgid "Enter the image URL you want to use. You can upload your image via Media > Add New"
+msgstr ""
+
+#: inc/widgets/about-widget.php:113
+msgid "Image Link"
+msgstr ""
+
+#: inc/widgets/about-widget.php:115
+msgid "Enter a link you want the about me image to go to."
+msgstr ""
+
+#: inc/widgets/about-widget.php:120
+msgid "About me text"
+msgstr ""
+
+#: inc/widgets/about-widget.php:126
+msgid "Autograph Image URL"
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:22
+msgid "A widget to display link box."
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:28
+msgid "BaniPro - Link Box"
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:97 inc/widgets/recent-posts-widget.php:109
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:110
+msgid "Box Link"
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:112
+msgid "Enter a link you want the link box to go to."
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:117
+msgid "Box Text"
+msgstr ""
+
+#: inc/widgets/link-box-widget.php:119
+msgid "Enter text you want to display on the box."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:22
+msgid "A widget to display recent posts as per your choice."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:28
+msgid "BaniPro - Latest Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:104
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:115
+msgid "Filter by Category"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:127
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:132
+msgid "Hide Date"
+msgstr ""
+
+#: index.php:13
+msgid "Father..."
+msgstr ""
+
+#: index.php:13
+msgid "Son..."
+msgstr ""
+
+#: index.php:13
+msgid "Writer..."
+msgstr ""
+
+#: index.php:13
+msgid "Designer..."
+msgstr ""
+
+#: index.php:13
+msgid "Developer..."
+msgstr ""
+
+#: index.php:13
+msgid "Blogger!"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "To search, type here and hit enter..."
+msgstr ""
+
+#: single.php:22
+msgid "  "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: template-parts/content-audio.php:88 template-parts/content-gallery.php:95
+#: template-parts/content-status.php:35 template-parts/content-video.php:79
+#: template-parts/content.php:64
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-audio.php:99 template-parts/content-gallery.php:106
+#: template-parts/content-page.php:22 template-parts/content-status.php:46
+#: template-parts/content-video.php:90 template-parts/content.php:75
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-audio.php:117 template-parts/content-gallery.php:124
+#: template-parts/content-status.php:63 template-parts/content-video.php:108
+#: template-parts/content.php:93
+msgid "Sticky Post"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Bani"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themes.salttechno.com/wordpress-theme/bani-free-blog-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A comprehensive blog theme with a fresh, clean & elegant design. The theme is designed with the classic elegance to keep your reader more focused on the content & images. Our professional designers have kept the design simple yet eye-pleasing. You can customize most of the theme settings with live preview. Native WordPress customizer is used to make it easy for you to edit theme settings. We have added a customizable slider for featured posts and a cover section at the top for your blog introduction. The theme is lightweight with less than 35kb style.css. It is fully responsive theme built on world's most loved framework for responsive websites, Bootstrap 4. You can use all latest WordPress page builder plugins like Site Origin, Elementor, Beaver Builder etc. This is a perfect WordPress theme for any kind of blog. Bani is a classic blog theme with RTL language support and is completely translation-ready. Our support team is always there to answer your queries. The theme will be regularly updated with new features. Check demo at http://bani.themesease.com. To know more about the theme, visit https://themes.salttechno.com/wordpress-theme/bani-free-blog-theme/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SaltTechno"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themes.salttechno.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page Template"
+msgstr ""
